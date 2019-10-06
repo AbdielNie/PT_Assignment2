@@ -1,0 +1,8 @@
+Henry,Cavill,83,Dalgliesh Street,South Yarra,3141
+Whoopi,Goldberg,57,Elaine Court,St Albans,3021
+Harry,Black,43,Dalgliesh Street,South Yarra,3141
+Fred,Smith,27,Elaine Court,St Albans,3021
+Man of Steel DVD,300.0,24.99
+Spider Man,300.0,24.99
+Magic Mike,336.0,26.99
+Harry Potter,450.0,39.99
